@@ -1,0 +1,152 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+
+body{
+    background-color: rgb(229, 229, 229);
+}
+*{
+    margin: 0;
+    font-family: 'poppins';
+}
+.header{
+    
+    height: 7rem;
+    width: 200vh;
+    margin: 18px 40px;
+    text-align: center;
+    justify-content: center;
+    background-color: white;
+}
+.header h1 {
+    padding: 1px;
+    padding-top: 23px;
+    font-weight: bolder;
+}
+.hero{
+    margin-top: 3rem;
+    text-align: center;
+    margin: 2rem 12rem;
+    background-color: white;
+    height: 38rem;
+    width: 55rem ;
+}
+.hero img{
+    margin-top: 35px;
+}
+.quotes h1{
+    text-align: center;
+    font-weight: lighter;
+    margin-bottom: 35px;
+}
+.main{
+    background-color: white;
+    width: 125vh;
+    margin-left: 40px;
+    
+}
+.main p{
+    text-align: left;
+    padding-left: 50px;
+    padding-right: 50px;
+    font-size: 18px;
+    line-height: 1.5;
+    font-weight: light;
+    padding-bottom: 2rem; 
+}
+span{
+    font-size: large;
+    font-weight: bolder;
+}
+.first-para{
+    padding-top: 80px;
+
+}
+.hero-content img{
+    height: 350px;
+    width: 90%;
+    padding: 20px 20px;
+}
+.hero-content{
+    width: 65vh;
+    margin-left: 40px;
+    background-color: white;
+    text-align: left;
+}
+.main-content{
+    display: flex;
+}
+.hero-content h1{
+    font-size: 13px;
+    margin-left: 20px;
+    margin-top: 10px;
+    padding-top: 16px;
+}
+.hero-content p{
+   font-size: 12px;      
+   margin-left: 22px;
+   margin-top: 7px;
+   font-weight: 300;  
+}
+.hero-content h3{
+    font-size: 11px;
+    margin-left: 23px;
+    margin-top: 2px;
+    padding-top: 16px;
+    font-weight: 700;
+}
+.team{
+    display: flex;
+}
+.footer{
+    width: 200vh;
+    height: 40vh;
+    margin-top: 3rem;
+    margin-left: 40px;
+    background-color: rgb(98, 98, 98);
+    margin-bottom: 10px;
+}
+.footer-info{
+    font-weight: 300;
+    color: white;
+    text-align: center;
+    font-size: 39px;
+    padding-top: 20px;
+}
+.footer-info span{
+    font-size: 39px; 
+    font-weight: bold;
+}
+.footer-btn{
+    margin-left: 45%;
+    margin-top: 1rem;
+    width: 8rem;
+    height: 3rem;
+    padding: 6px 8px;
+    font-size: 15px;
+    border-radius: 5px;
+    border: none;
+    cursor: pointer;
+    background-color: white;
+    font-weight: 500;
+}
+/* .footer a{
+    text-decoration: none;
+    color: black;
+} */
+button:hover{
+    background-color: rgb(69, 69, 255);
+}
+.end{
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 2rem;
+    margin-left: 0px
+}
+
+
+
+
+
+
+
